@@ -20,7 +20,7 @@ plugins {
 }
 
 group 'me.superkoh'
-version '1.0.0'
+version '1.0.1'
 
 project.ext {
     aspectjVersion = '1.8.10'
